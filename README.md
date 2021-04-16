@@ -23,4 +23,8 @@ A voting system to handle your bot vote's from top.gg
        webhook_url --> EJWOSlDFNRiux_XBG4Fbj0wJyNTM4riPDyO0Qe6zAwr1SSQZpfhv3Bzbfa9AQkDqlImF<br>
 </p>
 <br>
-Make sure the <i>dbl_secret</i> Is the same authorization in top.gg or It will not work. Any questions? DM me on <a href="https://discord.com/users/710465231779790849">Discord</a>.
+Make sure the <i>dbl_secret</i> Is the same authorization in top.gg or It will not work. <br>
+Make sure the Webhook URL on top.gg is the website-name/dblwebhook or It will not work.  <br>
+<br>
+<br>
+Any questions? DM me on <a href="https://discord.com/users/710465231779790849">Discord</a>.
