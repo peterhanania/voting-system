@@ -22,10 +22,9 @@ A voting system to handle your bot vote's from top.gg with MONGO DB.
 Let'say the webhook you copied is: https://discord.com/api/webhooks/827092347325644200/EJWOSlDFNRiux_XBG4Fbj0wJyNTM4riPDyO0Qe6zAwr1SSQZpfhv3Bzbfa9AQkDqlImF
 
  ```yaml
- {
+{
        webhook_id --> 827092347325644200
-       webhook_url --> EJWOSlDFNRiux_XBG4Fbj0wJyNTM4riPDyO0Qe6zAwr1SSQZpfhv3Bzbfa9AQkDqlImF
-       
+       webhook_url --> EJWOSlDFNRiux_XBG4Fbj0wJyNTM4riPDyO0Qe6zAwr1SSQZpfhv3Bzbfa9AQkDqlImF 
 }
 ```
 <br>
