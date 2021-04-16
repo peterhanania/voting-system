@@ -1,7 +1,7 @@
 # vote-system
 A voting system to handle your bot vote's from top.gg with MONGO DB.
 
-<u>How to Use?</u>
+### How to Use?
 <ul>
   <li>Fork this repo (https://github.com/peterhanania/voting-system/)</li>
   <li>Run <i>npm install</i> To install the required modules</li>
