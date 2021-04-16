@@ -15,14 +15,12 @@ A voting system to handle your bot vote's from top.gg
       bot_name --> Your discord bot's name
       bot_logo --> Bot logo's URL
       port --> Website's Port (default: 5000)
-      
+  </p>
+  <p>
       Webhooks:
       Let'say the webhook you copied is: https://discord.com/api/webhooks/827092347325644200/EJWOSlDFNRiux_XBG4Fbj0wJyNTM4riPDyO0Qe6zAwr1SSQZpfhv3Bzbfa9AQkDqlImF
-      
        webhook_id --> 827092347325644200
        webhook_url --> EJWOSlDFNRiux_XBG4Fbj0wJyNTM4riPDyO0Qe6zAwr1SSQZpfhv3Bzbfa9AQkDqlImF
-
-  
 </p>
 
 Make sure the <i>dbl_secret</i> Is the same authorization in top.gg or It will not work. Any questions? DM me on <a href="https://discord.com/users/710465231779790849">Discord</a>.
