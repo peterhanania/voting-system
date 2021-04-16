@@ -9,11 +9,13 @@ const userVote = mongoose.Schema({
   },
 
   lastVoted: { 
-    type: Number 
+    type: Number,
+    default: 0
   },
 
   votes: { 
-  type: Number 
+  type: Number,
+  default: 0
   }
 
 });
