@@ -1,0 +1,10 @@
+{
+    "mongo":"",
+    "dbl_secret":"",
+    "bot_token":"",
+    "bot_name":"",
+    "webhook_id":"",
+    "webhook_url":"",
+    "port":"",
+    "bot_logo":""
+}

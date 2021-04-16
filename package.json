@@ -1,0 +1,31 @@
+{
+  "name": "peter-vote-webhook",
+  "version": "1.0.0",
+  "description": "A voting system to handle your bot vote's from top.gg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterhanania/vote-system.git"
+  },
+  "keywords": [
+    "bot",
+    "-",
+    "vote",
+    "system"
+  ],
+  "author": "peter hanania",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterhanania/vote-system/issues"
+  },
+  "homepage": "https://github.com/peterhanania/vote-system#readme",
+  "dependencies": {
+    "@top-gg/sdk": "^3.1.0",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.4"
+  }
+}
